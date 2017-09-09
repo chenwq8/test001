@@ -6,6 +6,9 @@
 
 # 测试2
 * 1: cat
+
 ![lin](https://github.com/chenwq8/test001/blob/master/file01/6.jpg?raw=true)
+
 * 2: dog
+
 ![lin](https://github.com/chenwq8/test001/blob/master/file01/31.jpg?raw=true)
